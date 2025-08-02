@@ -19,7 +19,7 @@ Este repositório contém meus projetos e exercícios em desenvolvimento front-e
 
 - [Programação Front-end](https://github.com/Keven-Costa/programacao-front-end) - Este repositório contém os códigos das atividades desenvolvidas durante a disciplina Programação Front - End.
 
-- [Desenvolvimento Web](https://github.com/Keven-Costa/desenvolvimento-para-internet) - Este repositório contém os códigos das atividades desenvolvidas durante a disciplina Desenvolvimento para Internet.
+- [Desenvolvimento para internet](https://github.com/Keven-Costa/desenvolvimento-para-internet) - Este repositório contém os códigos das atividades desenvolvidas durante a disciplina Desenvolvimento para Internet.
 
 
 
