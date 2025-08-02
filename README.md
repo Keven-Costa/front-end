@@ -1,5 +1,5 @@
-# Front-end
-Este repositório é o meu espaço para organizar todos os meus projetos pessoais e exercícios resolvidos em Java. Aqui guardo desde códigos de estudo até aplicações mais complexas, servindo como um registro do meu progresso na linguagem.
+# Front-end (em desenvolvimento⚠️)
+Este repositório contém meus projetos e exercícios em desenvolvimento front-end. Aqui, organizo desde estudos básicos (HTML, CSS, JavaScript) até aplicações mais complexas (React, Vue, etc.), documentando meu progresso na criação de interfaces interativas e responsivas.
 
 
 ## 🚀 Meus Projetos Front-end (HTML, CSS e JavaScript)
